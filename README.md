@@ -7,13 +7,6 @@ This is a basic calculator application developed using C# and Windows Forms. It 
 * Clear button to reset the input field.
 * Return button to delete the last character in the input field.
 * Error handling for division by zero and invalid input sequences.
-* Calculation logic separates numbers and operators, performs operations based on operator precedence (multiplication/division before addition/subtraction), and displays the result accurately.
-## How to Use
-* Run the application (.exe file or through Visual Studio).
-* Enter numbers and operators using the provided buttons.
-* Press the result button to see the calculated result.
-* Use the clear button to reset the input field or the return button to delete the last character.
-* Enjoy performing simple calculations conveniently!
 ## Technologies Used
 * C# programming language
 * Windows Forms for the graphical user interface (GUI)
